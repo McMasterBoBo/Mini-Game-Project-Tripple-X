@@ -1,0 +1,3 @@
+﻿  TripleX.cpp
+C:\Users\libo8\source\repos\TripleX\TripleX\TripleX.cpp(64,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  TripleX.vcxproj -> C:\Users\libo8\source\repos\TripleX\Debug\TripleX.exe
